@@ -942,3 +942,5 @@ if (SERVER) then
 end
 
 ix.meta.inventory = META
+
+// мда пососал

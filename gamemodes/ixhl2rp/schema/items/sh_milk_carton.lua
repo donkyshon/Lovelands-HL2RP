@@ -16,3 +16,5 @@ ITEM.functions.Drink = {
 		return true
 	end,
 }
+
+// мда пососал

@@ -11,3 +11,5 @@ function CLASS:OnSet(client)
 end
 
 CLASS_OWS = CLASS.index
+
+// мда пососал

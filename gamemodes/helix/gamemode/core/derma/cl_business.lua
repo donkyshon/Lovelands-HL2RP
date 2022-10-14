@@ -501,3 +501,5 @@ hook.Add("CreateMenuButtons", "ixBusiness", function(tabs)
 		end
 	end
 end)
+
+// мда пососал

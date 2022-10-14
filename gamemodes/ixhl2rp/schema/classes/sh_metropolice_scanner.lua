@@ -30,3 +30,5 @@ function CLASS:OnLeave(client)
 end
 
 CLASS_MPS = CLASS.index
+
+// мда пососал

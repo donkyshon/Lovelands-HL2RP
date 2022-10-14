@@ -100,3 +100,5 @@ function PANEL:Think()
 end
 
 vgui.Register("ixDoorMenu", PANEL, "DFrame")
+
+// мда пососал

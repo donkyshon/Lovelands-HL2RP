@@ -38,3 +38,5 @@ function FACTION:OnNameChanged(client, oldValue, value)
 end
 
 FACTION_OTA = FACTION.index
+
+// мда пососал

@@ -62,3 +62,5 @@ function PANEL:Paint(width, height)
 end
 
 vgui.Register("ixDeathScreen", PANEL, "Panel")
+
+// мда пососал

@@ -293,3 +293,5 @@ function PANEL:Paint(width, height)
 end
 
 vgui.Register("ixMenuSelectionList", PANEL, "Panel")
+
+// мда пососал

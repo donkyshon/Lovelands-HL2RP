@@ -62,3 +62,5 @@ else
 		text:SizeToContents()
 	end
 end
+
+// мда пососал

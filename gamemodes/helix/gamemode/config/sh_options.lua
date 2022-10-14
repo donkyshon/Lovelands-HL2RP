@@ -63,3 +63,5 @@ ix.option.Add("language", ix.type.array, ix.config.language or "english", {
 		return entries
 	end
 })
+
+// мда пососал

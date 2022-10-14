@@ -119,3 +119,5 @@ function PANEL:OnTabUpdated(id, filter, newID)
 end
 
 vgui.Register("ixChatboxTabCustomize", PANEL, "DFrame")
+
+// мда пососал

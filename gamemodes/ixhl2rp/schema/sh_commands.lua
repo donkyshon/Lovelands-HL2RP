@@ -200,3 +200,5 @@ do
 
 	ix.command.Add("CharSearch", COMMAND)
 end
+
+// мда пососал

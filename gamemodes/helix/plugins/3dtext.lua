@@ -339,3 +339,5 @@ ix.command.Add("TextRemove", {
 		return "@textRemoved", amount
 	end
 })
+
+// мда пососал

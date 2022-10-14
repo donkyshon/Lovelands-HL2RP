@@ -145,3 +145,5 @@ ix.command.Add("SpawnRemove", {
 		return "@spawnDeleted", i
 	end
 })
+
+// мда пососал

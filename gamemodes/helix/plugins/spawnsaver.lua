@@ -41,3 +41,5 @@ function PLUGIN:PlayerLoadedCharacter(client, character, lastChar)
 		end
 	end)*/
 end
+
+// мда пососал

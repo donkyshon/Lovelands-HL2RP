@@ -195,3 +195,5 @@ if (IsValid(ix.gui.bars)) then
 	ix.gui.bars:Remove()
 	ix.gui.bars = vgui.Create("ixInfoBarManager")
 end
+
+// мда пососал

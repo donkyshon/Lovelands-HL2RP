@@ -271,3 +271,5 @@ hook.Add("CreateMenuButtons", "ixCharInfo", function(tabs)
 		end
 	}
 end)
+
+// мда пососал

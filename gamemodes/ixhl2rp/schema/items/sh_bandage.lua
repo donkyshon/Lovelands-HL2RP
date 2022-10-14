@@ -13,3 +13,5 @@ ITEM.functions.Apply = {
 		client:SetHealth(math.min(client:Health() + 20, 100))
 	end
 }
+
+// мда пососал

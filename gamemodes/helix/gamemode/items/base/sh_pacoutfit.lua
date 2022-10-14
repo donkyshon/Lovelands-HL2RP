@@ -170,3 +170,5 @@ end
 
 function ITEM:OnUnequipped()
 end
+
+// мда пососал

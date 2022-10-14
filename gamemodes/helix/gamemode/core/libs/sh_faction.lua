@@ -123,3 +123,5 @@ if (CLIENT) then
 		return false
 	end
 end
+
+// мда пососал

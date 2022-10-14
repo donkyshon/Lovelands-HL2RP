@@ -331,3 +331,5 @@ properties.Add("container_setname", {
 		ix.log.Add(client, "containerName", name, inventory:GetID(), name:len() != 0)
 	end
 })
+
+// мда пососал

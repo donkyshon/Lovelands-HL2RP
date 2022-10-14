@@ -1330,3 +1330,5 @@ function PANEL:AddMessage(...)
 end
 
 vgui.Register("ixChatbox", PANEL, "EditablePanel")
+
+// мда пососал

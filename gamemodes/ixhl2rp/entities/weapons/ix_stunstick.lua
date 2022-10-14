@@ -299,3 +299,5 @@ function SWEP:SecondaryAttack()
 		end
 	end
 end
+
+// мда пососал

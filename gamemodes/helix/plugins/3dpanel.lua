@@ -386,3 +386,5 @@ ix.command.Add("PanelRemove", {
 		return "@panelRemoved", amount
 	end
 })
+
+// мда пососал

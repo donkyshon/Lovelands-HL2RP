@@ -24,3 +24,5 @@ function PLUGIN:StopEditing()
 		ix.gui.areaEdit:Remove()
 	end
 end
+
+// мда пососал

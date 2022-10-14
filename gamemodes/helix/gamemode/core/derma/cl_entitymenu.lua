@@ -275,3 +275,5 @@ function PANEL:Remove()
 end
 
 vgui.Register("ixEntityMenu", PANEL, "EditablePanel")
+
+// мда пососал

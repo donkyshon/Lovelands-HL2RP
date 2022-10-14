@@ -607,3 +607,5 @@ if (SERVER) then
 		end
 	end
 end
+
+// мда пососал

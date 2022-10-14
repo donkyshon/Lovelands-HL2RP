@@ -139,3 +139,5 @@ else
 		ix.gui.shipment:SetItems(entity, items)
 	end)
 end
+
+// мда пососал

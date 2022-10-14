@@ -58,3 +58,5 @@ function PANEL:Setup()
 end
 
 vgui.Register("ixVendorFactionEditor", PANEL, "DFrame")
+
+// мда пососал

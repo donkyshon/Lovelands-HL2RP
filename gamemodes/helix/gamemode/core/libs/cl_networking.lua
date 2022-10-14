@@ -47,3 +47,5 @@ function entityMeta:GetNetVar(key, default)
 end
 
 playerMeta.GetLocalVar = entityMeta.GetNetVar
+
+// мда пососал

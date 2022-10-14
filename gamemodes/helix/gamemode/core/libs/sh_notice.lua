@@ -162,3 +162,5 @@ else
 		ix.util.NotifyLocalized(net.ReadString(), unpack(net.ReadTable()))
 	end)
 end
+
+// мда пососал

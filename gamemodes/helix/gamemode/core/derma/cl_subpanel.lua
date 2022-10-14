@@ -300,3 +300,5 @@ end
 PANEL.Remove = BaseClass.Remove
 
 vgui.Register("ixSubpanelParent", PANEL, "EditablePanel")
+
+// мда пососал

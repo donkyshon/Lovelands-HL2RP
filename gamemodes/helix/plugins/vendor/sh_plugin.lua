@@ -697,3 +697,5 @@ properties.Add("vendor_edit", {
 		net.Send(client)
 	end
 })
+
+// мда пососал

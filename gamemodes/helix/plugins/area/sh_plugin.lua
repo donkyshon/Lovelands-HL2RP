@@ -88,3 +88,5 @@ do
 		return self.ixInArea
 	end
 end
+
+// мда пососал

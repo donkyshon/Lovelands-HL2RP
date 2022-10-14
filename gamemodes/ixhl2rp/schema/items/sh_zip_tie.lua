@@ -55,3 +55,5 @@ ITEM.functions.Use = {
 function ITEM:CanTransfer(inventory, newInventory)
 	return !self.bBeingUsed
 end
+
+// мда пососал

@@ -797,3 +797,5 @@ ix.command.Add("MapRestart", {
 		end)
 	end
 })
+
+// мда пососал

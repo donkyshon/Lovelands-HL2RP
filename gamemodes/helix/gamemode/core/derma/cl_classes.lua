@@ -157,3 +157,5 @@ net.Receive("ixClassUpdate", function()
 		end
 	end
 end)
+
+// мда пососал

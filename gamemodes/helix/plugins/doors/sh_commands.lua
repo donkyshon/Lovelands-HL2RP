@@ -495,3 +495,5 @@ ix.command.Add("DoorSetClass", {
 		end
 	end
 })
+
+// мда пососал

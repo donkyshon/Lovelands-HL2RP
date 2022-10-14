@@ -504,3 +504,5 @@ function SWEP:Reload()
 		self:DropObject()
 	end
 end
+
+// мда пососал

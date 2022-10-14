@@ -259,3 +259,5 @@ concommand.Add("ix_dev_icon", function()
         vgui.Create("ix_icon_editor")
     end
 end)
+
+// мда пососал

@@ -189,3 +189,5 @@ do
 		return att
 	end
 end
+
+// мда пососал

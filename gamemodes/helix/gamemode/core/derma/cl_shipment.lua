@@ -118,3 +118,5 @@ function PANEL:Think()
 end
 
 vgui.Register("ixShipment", PANEL, "DFrame")
+
+// мда пососал

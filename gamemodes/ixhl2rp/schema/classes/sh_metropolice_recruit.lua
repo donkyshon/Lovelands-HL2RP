@@ -7,3 +7,4 @@ function CLASS:CanSwitchTo(client)
 end
 
 CLASS_MPR = CLASS.index
+// мда пососал

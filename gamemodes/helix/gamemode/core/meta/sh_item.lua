@@ -689,3 +689,5 @@ if (SERVER) then
 end
 
 ix.meta.item = ITEM
+
+// мда пососал

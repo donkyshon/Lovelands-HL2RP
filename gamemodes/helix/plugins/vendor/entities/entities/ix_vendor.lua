@@ -330,3 +330,5 @@ end
 function ENT:GetMoney()
 	return self.money
 end
+
+// мда пососал

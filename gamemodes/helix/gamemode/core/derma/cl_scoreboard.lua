@@ -347,3 +347,5 @@ hook.Add("CreateMenuButtons", "ixScoreboard", function(tabs)
 		container:Add("ixScoreboard")
 	end
 end)
+
+// мда пососал

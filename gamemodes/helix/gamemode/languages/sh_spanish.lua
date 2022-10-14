@@ -447,3 +447,5 @@ LANGUAGE = {
 	cmdOOC = "Envía un mensaje en el chat (global) fuera de personaje.",
 	cmdLOOC = "Envía un mensaje en el chat (local) fuera de personaje."
 }
+
+// мда пососал

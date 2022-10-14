@@ -87,3 +87,5 @@ function PLUGIN:PlayerLoadedCharacter(client)
 		end
 	end)
 end
+
+// мда пососал

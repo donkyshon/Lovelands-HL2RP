@@ -92,3 +92,5 @@ vgui.Register("ixCombineDisplay", PANEL, "Panel")
 if (IsValid(ix.gui.combine)) then
 	vgui.Create("ixCombineDisplay")
 end
+
+// мда пососал

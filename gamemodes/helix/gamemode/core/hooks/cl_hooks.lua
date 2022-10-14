@@ -1037,3 +1037,5 @@ hook.Add("player_spawn", "ixPlayerSpawn", function(data)
 		end
 	end
 end)
+
+// мда пососал

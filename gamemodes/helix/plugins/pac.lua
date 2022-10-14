@@ -349,3 +349,5 @@ function PLUGIN:InitializedPlugins()
 		end
 	end
 end
+
+// мда пососал

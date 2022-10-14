@@ -16,3 +16,5 @@ ix.config.Add("rationInterval", 300, "How long a person needs to wait in seconds
 	data = {min = 0, max = 86400},
 	category = "economy"
 })
+
+// мда пососал

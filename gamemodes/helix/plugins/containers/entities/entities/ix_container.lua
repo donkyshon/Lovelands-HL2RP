@@ -168,3 +168,5 @@ end
 function ENT:GetInventory()
 	return ix.item.inventories[self:GetID()]
 end
+
+// мда пососал

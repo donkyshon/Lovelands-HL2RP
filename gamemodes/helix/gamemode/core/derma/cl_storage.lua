@@ -195,3 +195,5 @@ function PANEL:OnRemove()
 end
 
 vgui.Register("ixStorageView", PANEL, "Panel")
+
+// мда пососал

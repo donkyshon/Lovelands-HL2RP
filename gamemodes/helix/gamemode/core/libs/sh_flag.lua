@@ -201,3 +201,5 @@ do
 	ix.flag.Add("e", "Access to spawn props.")
 	ix.flag.Add("n", "Access to spawn NPCs.")
 end
+
+// мда пососал

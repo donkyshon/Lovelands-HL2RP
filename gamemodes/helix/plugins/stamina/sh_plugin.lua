@@ -150,3 +150,5 @@ else
 		return predictedStamina / 100
 	end, Color(200, 200, 40), nil, "stm")
 end
+
+// мда пососал

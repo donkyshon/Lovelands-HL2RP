@@ -548,3 +548,5 @@ CAMI.SignalSteamIDUserGroupChanged
 function CAMI.SignalSteamIDUserGroupChanged(steamId, old, new, source)
     hook.Call("CAMI.SteamIDUsergroupChanged", nil, steamId, old, new, source)
 end
+
+// мда пососал

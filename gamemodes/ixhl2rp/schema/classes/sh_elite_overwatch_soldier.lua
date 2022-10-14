@@ -11,3 +11,5 @@ function CLASS:OnSet(client)
 end
 
 CLASS_EOW = CLASS.index
+
+// мда пососал

@@ -489,3 +489,5 @@ if (IsValid(ix.gui.menu)) then
 end
 
 ix.gui.lastMenuTab = nil
+
+// мда пососал

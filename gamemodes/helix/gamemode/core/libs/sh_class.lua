@@ -200,3 +200,5 @@ if (SERVER) then
 		net.Broadcast()
 	end
 end
+
+// мда пососал

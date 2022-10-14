@@ -53,3 +53,5 @@ end
 function Schema:CanDrive()
 	return false
 end
+
+// мда пососал

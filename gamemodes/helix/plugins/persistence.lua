@@ -193,3 +193,5 @@ if (SERVER) then
 		return string.format("%s has %s persistence for '%s'.", client:Name(), arg[2] and "enabled" or "disabled", arg[1])
 	end)
 end
+
+// мда пососал

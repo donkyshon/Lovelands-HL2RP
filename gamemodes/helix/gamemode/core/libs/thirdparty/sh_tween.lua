@@ -373,3 +373,5 @@ function tween.new(duration, subject, target, easing)
 end
 
 ix.tween = tween
+
+// мда пососал

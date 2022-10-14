@@ -404,3 +404,5 @@ end)
 Schema.voices.AddClass("Dispatch", function(client)
 	return client:IsDispatch()
 end)
+
+// мда пососал

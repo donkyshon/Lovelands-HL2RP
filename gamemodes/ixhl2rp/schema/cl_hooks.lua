@@ -282,3 +282,5 @@ netstream.Hook("ViewObjectives", function(data)
 	Schema:AddCombineDisplayMessage("@cViewObjectives")
 	vgui.Create("ixViewObjectives"):Populate(data)
 end)
+
+// мда пососал

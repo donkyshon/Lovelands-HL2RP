@@ -27,3 +27,5 @@ ITEM.functions.Place = {
 		end
 	end
 }
+
+// мда пососал

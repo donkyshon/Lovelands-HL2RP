@@ -86,3 +86,5 @@ end
 function ix.hud.DrawAll()
 	ix.hud.DrawItemPickup()
 end
+
+// мда пососал

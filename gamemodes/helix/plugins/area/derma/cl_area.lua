@@ -180,3 +180,5 @@ function PANEL:GetEntries()
 end
 
 vgui.Register("ixArea", PANEL, "Panel")
+
+// мда пососал

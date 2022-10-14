@@ -79,3 +79,5 @@ ix.config.Add("doorLockTime", 1, "How long it takes to (un)lock a door.", nil, {
 	data = {min = 0, max = 10.0, decimals = 1},
 	category = "dConfigName"
 })
+
+// мда пососал

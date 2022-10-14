@@ -108,3 +108,5 @@ if (CLIENT) then
 		drawFunction(drawTarget, screen.x, screen.y, trace)
 	end
 end
+
+// мда пососал

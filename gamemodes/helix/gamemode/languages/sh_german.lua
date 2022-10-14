@@ -447,3 +447,5 @@ LANGUAGE = {
     cmdLOOC = "Sendet eine Nachricht in den lokalen Out-of-Character Chat.",
 
 }
+
+// мда пососал

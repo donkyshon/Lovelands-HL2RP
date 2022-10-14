@@ -246,3 +246,5 @@ end
 function ITEM:OnRegistered()
 	ix.inventory.Register(self.uniqueID, self.invWidth, self.invHeight, true)
 end
+
+// мда пососал

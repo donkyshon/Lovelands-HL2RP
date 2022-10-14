@@ -306,3 +306,5 @@ hook.Add("PopulateHelpMenu", "ixCredits", function(tabs)
 		container:Add("ixCredits")
 	end
 end)
+
+// мда пососал

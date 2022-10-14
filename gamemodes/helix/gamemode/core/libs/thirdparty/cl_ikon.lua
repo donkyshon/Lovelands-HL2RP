@@ -350,3 +350,5 @@ end)
 if (schemaName) then
 	ikon:init()
 end
+
+// мда пососал

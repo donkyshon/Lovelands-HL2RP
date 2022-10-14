@@ -124,3 +124,5 @@ ix.container.Register("models/props_c17/cashregister01a.mdl", {
 	width = 2,
 	height = 1
 })
+
+// мда пососал

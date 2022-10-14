@@ -19,3 +19,5 @@ ITEM.functions.Open = {
 		client:EmitSound("ambient/fire/mtov_flame2.wav", 75, math.random(160, 180), 0.35)
 	end
 }
+
+// мда пососал

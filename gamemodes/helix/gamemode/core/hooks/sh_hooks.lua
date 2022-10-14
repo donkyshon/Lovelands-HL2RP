@@ -653,3 +653,5 @@ else
 		UpdateAnimationTable(client, bEntered and vehicle or false)
 	end)
 end
+
+// мда пососал

@@ -6,3 +6,4 @@ function CLASS:CanSwitchTo(client)
 end
 
 CLASS_CWU = CLASS.index
+// мда пососал

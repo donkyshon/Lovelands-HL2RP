@@ -281,3 +281,5 @@ else
 		mesh.End()
 	end
 end
+
+// мда пососал

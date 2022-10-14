@@ -15,3 +15,5 @@ ITEM.functions.Eat = {
 		return !itemTable.player:IsCombine()
 	end
 }
+
+// мда пососал

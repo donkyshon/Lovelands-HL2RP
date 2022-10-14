@@ -198,3 +198,5 @@ if (CLIENT) then
 		end
 	end
 end
+
+// мда пососал

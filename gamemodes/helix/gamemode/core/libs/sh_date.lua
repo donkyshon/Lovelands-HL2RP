@@ -144,3 +144,5 @@ end
 function ix.date.Construct(currentDate)
 	return ix.date.lib.construct(currentDate)
 end
+
+// мда пососал

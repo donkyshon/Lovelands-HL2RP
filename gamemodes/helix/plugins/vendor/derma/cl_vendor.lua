@@ -285,3 +285,5 @@ function PANEL:Paint(w, h)
 end
 
 vgui.Register("ixVendorItem", PANEL, "DPanel")
+
+// мда пососал

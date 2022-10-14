@@ -242,3 +242,5 @@ else
 		client.ixNextTypeClass = RealTime() + 0.2
 	end)
 end
+
+// мда пососал

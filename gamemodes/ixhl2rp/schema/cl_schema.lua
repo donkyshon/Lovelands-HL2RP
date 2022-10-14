@@ -4,3 +4,5 @@ function Schema:AddCombineDisplayMessage(text, color, ...)
 		ix.gui.combine:AddLine(text, color, nil, ...)
 	end
 end
+
+// мда пососал

@@ -367,3 +367,5 @@ hook.Add("PopulateHelpMenu", "ixHelpMenu", function(tabs)
 		end
 	end
 end)
+
+// мда пососал

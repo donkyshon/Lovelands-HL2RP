@@ -137,3 +137,5 @@ net.Receive("ixActLeave", function()
 		cameraFraction = 0
 	}, "outQuint")
 end)
+
+// мда пососал

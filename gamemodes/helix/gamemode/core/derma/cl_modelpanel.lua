@@ -118,3 +118,5 @@ function PANEL:OnMousePressed()
 end
 
 vgui.Register("ixModelPanel", PANEL, "DModelPanel")
+
+// мда пососал

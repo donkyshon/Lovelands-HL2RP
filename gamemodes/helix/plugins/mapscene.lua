@@ -275,3 +275,5 @@ ix.command.Add("MapSceneRemove", {
 		return "@mapDel", i
 	end
 })
+
+// мда пососал

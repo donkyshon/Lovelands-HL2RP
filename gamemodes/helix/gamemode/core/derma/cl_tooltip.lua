@@ -592,3 +592,5 @@ function PANEL:Remove()
 end
 
 vgui.Register("ixTooltipMinimal", PANEL, "ixTooltip")
+
+// мда пососал

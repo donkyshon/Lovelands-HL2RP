@@ -214,3 +214,5 @@ else
 		cam.End3D2D()
 	end
 end
+
+// мда пососал

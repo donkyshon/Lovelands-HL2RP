@@ -319,3 +319,5 @@ end
 function ITEM:ShouldRestoreSubMaterials()
 	return true
 end
+
+// мда пососал

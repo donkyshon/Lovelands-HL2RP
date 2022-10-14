@@ -326,3 +326,5 @@ end
 if not string.utf8reverse then
         string.utf8reverse = utf8reverse
 end
+
+// мда пососал

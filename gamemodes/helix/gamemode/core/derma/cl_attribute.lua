@@ -162,3 +162,5 @@ function PANEL:SetReadOnly()
 end
 
 vgui.Register("ixAttributeBar", PANEL, "DPanel")
+
+// мда пососал

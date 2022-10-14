@@ -17,3 +17,4 @@ function CLASS:CanSwitchTo(client)
 end
 
 CLASS_MPU = CLASS.index
+// мда пососал

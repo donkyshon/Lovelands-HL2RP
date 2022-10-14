@@ -921,3 +921,5 @@ function PANEL:Paint(width, height)
 end
 
 vgui.Register("ixIconTextEntry", PANEL, "ixTextEntry")
+
+// мда пососал

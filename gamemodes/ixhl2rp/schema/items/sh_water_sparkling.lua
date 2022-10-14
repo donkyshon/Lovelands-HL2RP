@@ -17,3 +17,5 @@ ITEM.functions.Drink = {
 		return !itemTable.player:IsCombine()
 	end
 }
+
+// мда пососал

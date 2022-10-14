@@ -128,3 +128,5 @@ function TOOL:CheckObjects()
 end
 
 ix.meta.tool = TOOL
+
+// мда пососал

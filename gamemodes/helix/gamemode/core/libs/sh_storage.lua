@@ -442,3 +442,5 @@ else
 		panel:SetLocalMoney(LocalPlayer():GetCharacter():GetMoney())
 	end)
 end
+
+// мда пососал

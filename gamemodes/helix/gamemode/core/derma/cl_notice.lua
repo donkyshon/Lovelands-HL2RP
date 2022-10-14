@@ -268,3 +268,5 @@ if (IsValid(ix.gui.notices)) then
 else
 	ix.gui.notices = vgui.Create("ixNoticeManager")
 end
+
+// мда пососал

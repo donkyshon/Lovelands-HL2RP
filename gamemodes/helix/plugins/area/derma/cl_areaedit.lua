@@ -191,3 +191,4 @@ vgui.Register("ixAreaEdit", PANEL, "DFrame")
 if (IsValid(ix.gui.areaEdit)) then
 	ix.gui.areaEdit:Remove()
 end
+// мда пососал

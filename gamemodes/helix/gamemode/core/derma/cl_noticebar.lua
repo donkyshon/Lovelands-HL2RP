@@ -86,3 +86,5 @@ function PANEL:Paint(width, height)
 end
 
 vgui.Register("ixNoticeBar", PANEL, "Panel")
+
+// мда пососал

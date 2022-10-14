@@ -444,3 +444,5 @@ LANGUAGE = {
 	cmdOOC = "Wysyła wiadomość na czacie out-of-character.",
 	cmdLOOC = "Wysyła wiadomość na lokalnym czacie out-of-character."
 }
+
+// мда пососал

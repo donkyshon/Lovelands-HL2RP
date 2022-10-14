@@ -241,3 +241,5 @@ OverridePanel("DScrollPanel", function()
 		self.VBar:SetScroll(y)
 	end
 end)
+
+// мда пососал

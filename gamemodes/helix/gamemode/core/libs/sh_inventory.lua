@@ -170,3 +170,5 @@ function ix.inventory.Register(invType, w, h, isBag)
 
 	return ix.item.inventoryTypes[invType]
 end
+
+// мда пососал

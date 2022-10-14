@@ -164,3 +164,5 @@ function PLUGIN:SetupActs()
 		untimed = true
 	})
 end
+
+// мда пососал

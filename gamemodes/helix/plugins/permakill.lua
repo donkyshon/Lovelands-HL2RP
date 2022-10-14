@@ -35,3 +35,5 @@ function PLUGIN:PlayerSpawn(client)
 		character:SetData("permakilled")
 	end
 end
+
+// мда пососал

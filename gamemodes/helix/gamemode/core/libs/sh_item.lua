@@ -838,3 +838,5 @@ ix.char.RegisterVar("Inventory", {
 	end,
 	alias = "Inv"
 })
+
+// мда пососал

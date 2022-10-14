@@ -1157,3 +1157,5 @@ end
 
 ix.util.Include("helix/gamemode/core/meta/sh_entity.lua")
 ix.util.Include("helix/gamemode/core/meta/sh_player.lua")
+
+// мда пососал

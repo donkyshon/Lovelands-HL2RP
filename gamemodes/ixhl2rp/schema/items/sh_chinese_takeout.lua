@@ -16,3 +16,5 @@ ITEM.functions.Eat = {
 		return true
 	end,
 }
+
+// мда пососал

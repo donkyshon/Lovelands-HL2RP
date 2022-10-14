@@ -198,3 +198,5 @@ function PANEL:UpdateUnloaded(bNoSizeToContents)
 end
 
 vgui.Register("ixPluginManager", PANEL, "ixSettings")
+
+// мда пососал

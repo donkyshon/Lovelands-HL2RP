@@ -24,3 +24,5 @@ FACTION.isDefault = false
 FACTION.isGloballyRecognized = true
 
 FACTION_ADMIN = FACTION.index
+
+// мда пососал

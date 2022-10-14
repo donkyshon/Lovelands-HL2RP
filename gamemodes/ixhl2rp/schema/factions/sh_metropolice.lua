@@ -51,3 +51,5 @@ function FACTION:OnNameChanged(client, oldValue, value)
 end
 
 FACTION_MPF = FACTION.index
+
+// мда пососал

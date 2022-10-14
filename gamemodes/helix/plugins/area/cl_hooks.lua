@@ -256,3 +256,5 @@ net.Receive("ixAreaChanged", function()
 
 	hook.Run("OnAreaChanged", oldID, newID)
 end)
+
+// мда пососал

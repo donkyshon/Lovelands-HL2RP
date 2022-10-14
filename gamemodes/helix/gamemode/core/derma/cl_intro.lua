@@ -83,3 +83,5 @@ function PANEL:Paint(w, h)
 end
 
 vgui.Register("ixIntro", PANEL, "EditablePanel")
+
+// мда пососал

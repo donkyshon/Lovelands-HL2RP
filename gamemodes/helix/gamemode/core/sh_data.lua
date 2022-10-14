@@ -116,3 +116,5 @@ if (SERVER) then
 		hook.Run("SaveData")
 	end)
 end
+
+// мда пососал

@@ -427,3 +427,5 @@ LANGUAGE = {
 	cmdOOC = "Envoie un message dans le chat général en dehors du Rôleplay.",
 	cmdLOOC = "Envoie un message dans le chat local en dehors du Rôleplay."
 }
+
+// мда пососал

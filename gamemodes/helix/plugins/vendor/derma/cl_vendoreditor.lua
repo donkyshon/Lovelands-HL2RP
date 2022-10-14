@@ -284,3 +284,5 @@ function PANEL:updateVendor(key, value)
 end
 
 vgui.Register("ixVendorEditor", PANEL, "DFrame")
+
+// мда пососал

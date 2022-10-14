@@ -175,3 +175,5 @@ do
 
 	ix.chat.Register("broadcast", CLASS)
 end
+
+// мда пососал

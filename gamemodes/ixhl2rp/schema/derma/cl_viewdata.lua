@@ -123,3 +123,5 @@ function PANEL:Close()
 end
 
 vgui.Register("ixViewData", PANEL, "DFrame")
+
+// мда пососал

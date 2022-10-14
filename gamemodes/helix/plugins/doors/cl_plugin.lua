@@ -201,3 +201,5 @@ net.Receive("ixDoorPermission", function()
 		end
 	end
 end)
+
+// мда пососал

@@ -325,3 +325,5 @@ function ENT:GetData(key, default)
 
 	return data[key] or default
 end
+
+// мда пососал

@@ -769,3 +769,5 @@ hook.Add("CreateMenuButtons", "ixSettings", function(tabs)
 		end
 	}
 end)
+
+// мда пососал

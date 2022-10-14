@@ -794,3 +794,5 @@ hook.Add("PostRenderVGUI", "ixInvHelper", function()
 
 	hook.Run("PostDrawInventory", pnl)
 end)
+
+// мда пососал

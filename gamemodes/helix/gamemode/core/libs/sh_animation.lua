@@ -148,3 +148,5 @@ if (CLIENT) then
 	local panelMeta = FindMetaTable("Panel")
 	ix.util.InstallAnimationMethods(panelMeta)
 end
+
+// мда пососал

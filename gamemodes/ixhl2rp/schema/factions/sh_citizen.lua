@@ -18,3 +18,5 @@ function FACTION:OnCharacterCreated(client, character)
 end
 
 FACTION_CITIZEN = FACTION.index
+
+// мда пососал

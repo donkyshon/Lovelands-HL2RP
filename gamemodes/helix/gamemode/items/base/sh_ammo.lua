@@ -44,3 +44,5 @@ function ITEM:OnRegistered()
 		ix.ammo.Register(self.ammo)
 	end
 end
+
+// мда пососал

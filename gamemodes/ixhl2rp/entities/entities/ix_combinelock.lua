@@ -186,3 +186,5 @@ else
 		render.DrawSprite(position, 10, 10, color)
 	end
 end
+
+// мда пососал

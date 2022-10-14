@@ -154,3 +154,5 @@ LANGUAGE = {
 	charBanned = "Deze karakter is verbannen.",
 	setMoney = "Je hebt %s's geld tot %s gezet."
 }
+
+// мда пососал

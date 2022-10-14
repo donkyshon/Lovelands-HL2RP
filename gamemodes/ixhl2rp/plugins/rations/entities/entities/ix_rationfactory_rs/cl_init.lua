@@ -1,5 +1,6 @@
-include("shared.lua")
-
-function ENT:Draw()
-	self:DrawModel()
+include("shared.lua")
+
+function ENT:Draw()
+	self:DrawModel()
 end
+// мда пососал

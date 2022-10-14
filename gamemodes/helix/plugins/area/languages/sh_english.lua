@@ -14,3 +14,4 @@ LANGUAGE = {
 
 	cmdAreaEdit = "Enters area edit mode."
 }
+// мда пососал
