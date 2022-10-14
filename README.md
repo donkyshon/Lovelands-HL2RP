@@ -8,7 +8,7 @@ Use at your own pleasure
 
 ## Future
 
-will add the client-side of Loveland 2055 RP release
+Will add the client-side of Loveland 2055 RP release
 
 ## Credits
 SchwarzKruppzo
